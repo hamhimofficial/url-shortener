@@ -1,5 +1,3 @@
-# url-shortener
+# Custom URL Shortner
 
-My free URL shortener hack.
-
-Read more about it on [tshr.me/post](https://tshr.me/post)
+Made with the help of : [tshr.me/post]
